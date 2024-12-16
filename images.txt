@@ -1,1 +1,1 @@
-tomcat:8.0
+ingress-nginx-controller:v0.46.0
