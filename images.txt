@@ -1,1 +1,1 @@
-kube-controllers:v3.8.9
+kube-controllers:3.8.9
