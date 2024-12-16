@@ -1,1 +1,1 @@
-cni:v3.8.9
+kube-controllers:v3.8.9
