@@ -1,1 +1,1 @@
-kube-controllers:3.8.9
+busybox:1.30
